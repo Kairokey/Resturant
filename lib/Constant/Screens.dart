@@ -1,0 +1,9 @@
+const splashpath='/';
+const introscreen='/intro';
+const signin='/signin';
+const register='/register';
+const homescreen='/home';
+const categoryscreen='/category';
+const adminScreen="/admin";
+const deleteProduct="/delete";
+const createProduct="/create";
